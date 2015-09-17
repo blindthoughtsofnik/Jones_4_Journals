@@ -1,0 +1,11 @@
+  - Integer: Whole or "counting numbers" used to define a quantity. Denotes a function/.
+  - Float: A number with decimals. Use a float (instead of double) if you need to save memory in large arrays of floating point numbers.
+  - Double: A more space taking instead of double) if you need to save less memory in smaller arrays. More commonly used.  
+  - Byte: Can also be used in place of int where their limits help to clarify your code.
+  - Boolean: Use this data type for simple flags that track true/false conditions.  
+
+
+
+
+
+
