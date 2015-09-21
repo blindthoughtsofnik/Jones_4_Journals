@@ -1,0 +1,2 @@
+An IDE is an interface for mass storage devices that allows the controller to be integrated into the disk.
+
