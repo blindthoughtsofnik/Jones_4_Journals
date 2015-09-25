@@ -1,0 +1,19 @@
+Paid License: A paid license is a license granting access to things, that has been fully paid for. May also refer to a "paid up" license which refers to the software that is paid for on a one-time basis, giving the user the right to run the program as long as they choose. It does not imply a right to updates, which are usually sold seperately.
+
+Shareware: Software available free of cost in exchange for evaluatuion, but a fee may be charged for continued use.
+
+Trialware: Software available free of charge for a "trial" or limited amount of time.
+
+Adware: Software that is virus-like and automatically enables constant flowing advertuisements that generate revenue for its author.
+
+Cripleware: Software that is distributed free of charge with reduced functionality in attempt to attract payment for a fully functional software.
+
+Freemium: Software that is distributed fully but for addictional functions you must pay. (Pay To Win)
+
+FreeWare: Like Free Open-Source software, except you are unable to modify it, and it's free/.
+
+Richard Stallman: He's an activist that fights for new software that is fre of charge that can be distributed to all people.
+
+Lawrence Lessig: Fights for internet protection and the public ideas being protected.
+
+Eben Moglen: Chairman of Software Freedom Law Center
