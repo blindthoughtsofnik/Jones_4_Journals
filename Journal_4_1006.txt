@@ -1,0 +1,4 @@
+Methods are labeled in Java as static booleans which have a function of returning a value.
+A class is something that holds particular functions as a whole, it cuts them fom other things.
+An instance refers to something such as "Foo"
+A class method is a porperty for the entire class.
