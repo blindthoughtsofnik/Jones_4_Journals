@@ -1,0 +1,3 @@
+1. A class is an OOP concept that interacts with each other to achieve a task.Like an instance.
+2. To contain a single idea of something to task for the program
+3. A method might be something that gives the class a reply to play off of.
