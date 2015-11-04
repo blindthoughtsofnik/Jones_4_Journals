@@ -1,0 +1,5 @@
+1. A method is a piece of code that contains a single effort toward the complete program.
+2. I used method "playGame' which is the piece of the program that runs the game or Pick a Number piece.
+3. A while loop is a piece of code that makes a method continuing runnin under specific circumstances.
+4. I used a while loop to run the "playGame" method. a boolean corresponds to my while loop as the boolean is false and while loop will continue to repeat until boolean = true, the counter is my guessesleft, which gives the player a specific amount of times to guess.
+
