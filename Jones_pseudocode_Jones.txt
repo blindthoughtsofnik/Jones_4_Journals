@@ -1,0 +1,25 @@
+Begin:
+ Do 1 time
+  Draw up 5 centimeters
+  Turn down 45 degress
+  Draw forward 5 centimeters
+  Turn up 45 degrees
+  Draw forward 5 centimeters
+Insert (blank space) 2 centimeters
+ Do 1 time
+  Draw up 3 centimeters
+  Move up 1 centimeter
+  Dot at position
+Insert (blank space) 2 centimeters
+ Do 1 time
+  Draw up 5 centimeters
+  Draw down 3 centimeters
+  Set current position as 1
+  Turn up 45 degrees
+  Draw forward 2 centimeters
+  Return to 1
+  Turn down 45 degrees
+  Draw forward 2 centimeters
+Insert (blank space) 1 centimeter
+ Draw dot with circumference of .5 centimeters
+End

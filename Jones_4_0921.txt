@@ -1,0 +1,3 @@
+No, I do not have credit for all journals, there are 4 missing.
+It is important to specify names because Mr. Davis cannot tell whose assignment is whose when there are fifty or more of the same named files.
+cp {source} {destination} {enter}

@@ -1,0 +1,13 @@
+Thus far I have created my name, using a specific method to specify colour and position;
+
+    private void drawN(GraphicsContext psychic) {
+        psychic.fillText("Nikolai", 100, 100);
+        
+    }
+
+    private void drawShapes(GraphicsContext gc) {                                                                            //IDE; Integrated Development Enviroment
+        gc.setFill(Color.DARKSLATEGRAY);
+        gc.setStroke(Color.MAROON);
+    }
+    public static void main(String[] args) {
+        Application.launch(args);

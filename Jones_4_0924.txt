@@ -1,0 +1,4 @@
+Steve Ballmer said that Linux free software and free software licensing was a virus that attaches itself to intellectual property, because it undoes the idea of copyright and allows for someone's work to be accessed increduously.
+Open source and propietary software are connected by the thought of a owner's ideas. Propietary software and open source are almost opposites because open software allows for free access while propietary software is strictly owned.
+The chief difference between the MIT license and GPL is that the MIT doesn't require modifications be open sourced whereas the GPL does.
+

@@ -1,0 +1,1 @@
+Yesterday we created a repo through GitHub aand created a file, added it, committed it, then pushed it onto Git.
