@@ -1,0 +1,6 @@
+In my game I can track the challenges a player has solved by perhaps creating:
+public static void Checklist() {
+and using while loops that make an if statement in Checklist print DONE while
+the challenges method(s) are completed.
+I can track HP by passing a new value to a variable each time HP is affected.
+Items, ditto.
