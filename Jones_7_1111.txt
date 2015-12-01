@@ -1,0 +1,20 @@
+My game will not actually have challenges to complete, but will rather allow 
+the character to indulge into a depressing story in which their responses
+build their story into it's own poignant demise.
+I will track their responses with while loops only playing specific methods
+through certain responses.
+    static String start;
+    static String charactername;
+    static String playergender;
+    static String response;
+    static int playerage;
+    static int year;
+    JTextArea inputText;
+    JTextArea feedbackText;
+    static String tpp;
+    static String tppl;
+    static String tppp;
+    static String tpppl;
+    static String tppd;
+    static String tppdl;
+    static int r;
