@@ -1,0 +1,4 @@
+Strings are a piece of code that can have letters.
+They are good for printing words or titles, rether than numbers.
+Some string methods : comparing, searching, extracting.
+We identify them by looking for what they are pulling or printing.
