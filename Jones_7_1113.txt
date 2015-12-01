@@ -1,0 +1,5 @@
+I'll use while loops in my game in order to stop the game in occurence with
+the death of a user's character and/or the finishing of a game, as well as
+in the event a player chooses to play again.
+Methods will be used to allow the program to ask questions to the user
+or push out events in the game, and accept responses.
