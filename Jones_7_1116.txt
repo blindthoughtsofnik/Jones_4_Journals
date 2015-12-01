@@ -1,0 +1,4 @@
+I will use methods to create different sections for my games. 
+These methods will ask questions, and use a scanner to follow a path.
+The values passed to these methods will pass through the scanner and activate
+either a new response, or an end to the game.
