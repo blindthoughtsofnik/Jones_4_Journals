@@ -1,0 +1,5 @@
+The purpose of my code art is to create and cool and interesting work of
+art through diffent methods of programming.
+Creating art with code to learn is following cookie cutter ideas and using 
+them to make something more beautiful.
+
