@@ -1,0 +1,5 @@
+Ive created a slick game in which a character must escape their kidnappers house.
+-
+I did not finish my map, though i did  complete my spritesheet. I did not complete my map because i didnt know how to access the Tiled map through a different computer.
+I was not able to meet the timeline. I was not here for the first week back, which is when most knowledge of how to code everything was given, so I was not there to get it,	
+meaning i missed out on a week of work.
