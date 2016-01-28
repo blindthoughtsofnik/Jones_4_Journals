@@ -1,0 +1,4 @@
+The following public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException { is a method. I can tell because render is a method, and the use
+of "public void". This is seen when creating methods to call upon or to iterate
+through our code, other items.
