@@ -1,0 +1,4 @@
+A class constructor is something that makes an instance of a class.
+For our orb, it should include a value of power to pass onto the orb, as well as
+a movement.
+It should have a method for power, to gauge hits, and a method for color, size, etc.
