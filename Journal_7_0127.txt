@@ -1,0 +1,1 @@
+You add an image in any class where you need an image top create an object. it's put in the public class of that object and uses Image to draw. The image is drawn at the coordinates given.
