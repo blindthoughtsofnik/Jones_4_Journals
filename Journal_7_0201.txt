@@ -1,0 +1,7 @@
+The challenge that my player has to solve, is to escape their kidnappers lair. 
+Youre tasked to find your way out of the house (lair) and you must hide from 
+and enemies, as well as protect yourself from detection.
+I can only track this by the enemies hitboxes to see if the character has
+been detected, which would result in capture, as well as if the character has left
+the house, resulting in a win.
+
