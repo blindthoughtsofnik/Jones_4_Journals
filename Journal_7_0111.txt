@@ -1,0 +1,4 @@
+I will create a slick game where my character must escape their kidnappers house.
+Ive faced challenges of not understand the codes we are using due to the fact
+I was not here when we learned how to do things, and what pieces of which codes
+did what.
