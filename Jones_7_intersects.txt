@@ -1,0 +1,1 @@
+We check to see if the enemy or object hitbox comes in contact with the character hitbox, then check if the HP level drops at hitbox touch. 
